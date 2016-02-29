@@ -73,9 +73,9 @@ Suporte/ Testes/ Desenvolvimento/ Coordenação/ Projetos em TI
 
 ##Education
 
-**Bacharel em Ciência da Computação** - Universidade Nove de Julho / UNINOVE – Incompleto.
+Ciência da Computação - Universidade Nove de Julho / UNINOVE – Incompleto.
 
-**Técnico em Informática/Eletrônica** -Colégio Radial – Conclusão em 1999
+Técnico em Informática/Eletrônica - Colégio Radial – Conclusão em 1999
 
 
 ##Courses
