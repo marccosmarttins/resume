@@ -34,47 +34,49 @@ Suporte/ Testes/ Desenvolvimento/ Coordenação/ Projetos em TI
 
 ##Experiência Profissional
 
-**2012 a 2015 – Byte Stage / Soluções Digitais - Programador Web
+**2012 a 2015 – Byte Stage / Soluções Digitais - Programador Web**
 
 > Desenvolvimento e manutenção de websites e sistemas web, configuração e gerenciamento de servidores.
 
-**2011 a 2012 – Ace Fitness - Analista de Infraetrutura
+**2011 a 2012 – Ace Fitness - Analista de Infraetrutura**
 
 > Responsável pela Rede, Telefonia (PABX, DDR), E-mails, Servidores, Layouts, Documentações e Suporte Técnico em geral; Implantação do projeto de reestruturação do cabeamento (Rede/Telefonia).
 
-**2009 a 2011 – Byte Stage / Informática e Tecnologia Analista de Suporte
+**2009 a 2011 – Byte Stage / Informática e Tecnologia Analista de Suporte**
 
 > Suporte ao usuário, manutenção de micro computadores, softwares, instalação e manutenção de redes; Desenvolvimento de layouts e documentações; Gerenciamento de servidores web (WHM, cPanel, WHMCS).
 
-**2007 a 2009 – Fast Solutions Analista de Suporte
+**2007 a 2009 – Fast Solutions Analista de Suporte**
 
 > Atuação na área de sistemas de pagamentos com cartões, operando nas rotinas diárias da base de dados (SQL) e sistemas Unix; Homologação de processos batch, arquivos, funcionalidades do sistema e parametrizações específicas de produtos; Desenvolvimento de layouts e documentações.
 
-**2006 a 2007 – XP Informática / Consultoria em TI Analista de Sistemas
+**2006 a 2007 – XP Informática / Consultoria em TI Analista de Sistemas**
 
 > Projeto e implementação de newsletter em servidor dedicado remoto; Desenvolvimento e criação de artes (sites, folders, etc.) para E-Marketing; Atendimento ao usuário visando obter solução referente a Hardware e Software, e indicando novas tecnologias.
 
-**2005 a 2006 – EC Micro Analista de Suporte
+**2005 a 2006 – EC Micro Analista de Suporte**
 
 > Participação do projeto de migração de hardware, alocado na Editora Abril; Suporte técnico em geral.
 
-**2004 a 2005 – VA Support / Consultoria em TI Analista de Suporte
+**2004 a 2005 – VA Support / Consultoria em TI Analista de Suporte**
 
 > Integrante da equipe de Help Desk, alocado na empresa Johnson Diversey; Atendimento local, remoto e telefônico; Administração de Backup diário.
 
-**2002 a 2004 – Carbono Lorena LTDA Técnico em Informática
+**2002 a 2004 – Carbono Lorena LTDA Técnico em Informática**
 
 > Atendimento local, remoto e telefônico; Administração de Backup diário; Participação no projeto de implantação do Site e Intranet.
 
-**2001 a 2002 – Telsul Comunicações Técnico de Dados Jr.
+**2001 a 2002 – Telsul Comunicações Técnico de Dados Jr.**
 
 > Atuando em campo, na instalação e manutenção de Internet Banda Larga Speedy.
 
 ##Formação
 
-**Bacharel em Ciência da Computação**Universidade Nove de Julho / UNINOVE – Incompleto.
+**Bacharel em Ciência da Computação**
+Universidade Nove de Julho / UNINOVE – Incompleto.
 
-**Técnico em Informática/Eletrônica**Colégio Radial – Conclusão em 1999
+**Técnico em Informática/Eletrônica**
+Colégio Radial – Conclusão em 1999
 
 
 ##Cursos
