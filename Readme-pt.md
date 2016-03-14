@@ -8,7 +8,7 @@
 
 **E-mail:** [marccos.marttins@gmail.com](mailto:marccos.marttins@gmail.com)
 
-**Skype:** [marccos.marttins](marccos.marttins)
+**Skype:** [marccos.marttins](skype:marccos.marttins?call)
 
 **Github:** [github.com/marccosmarttins](https://github.com/marccosmarttins)
 
@@ -31,7 +31,7 @@ Suporte/ Testes/ Desenvolvimento/ Coordenação/ Projetos em TI
 * MySQL
 * Servers (Linux, Vagrant, DNS, VHosts)
 * Scrum and Kanban
-* Photoshop / Illustrator / Corel
+* Photoshop - Illustrator - Corel
 
 ##Experiência Profissional
 

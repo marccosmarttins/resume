@@ -8,7 +8,7 @@
 
 **E-mail:** [marccos.marttins@gmail.com](mailto:marccos.marttins@gmail.com)
 
-**Skype:** [marccos.marttins](marccos.marttins)
+**Skype:** [marccos.marttins](skype:marccos.marttins?call)
 
 **Github:** [github.com/marccosmarttins](https://github.com/marccosmarttins)
 
@@ -31,7 +31,7 @@ Support / Test / Development / Coordination / Project IT
 * MySQL
 * Servers (Linux, Vagrant, DNS, VHosts)
 * Scrum and Kanban
-* Photoshop / Illustrator / Corel
+* Photoshop - Illustrator - Corel
 
 ##Work Experience
 
@@ -41,7 +41,7 @@ Support / Test / Development / Coordination / Project IT
 
 **2011 a 2012 – Ace Fitness - Infrastructure Analyst**
 
-> Responsible for Network Telephony (PABX, DDR), E-mail, servers, Layouts, Documentation and Technical Support in general; Implementation of wiring restructuring project (Network / Telephony).
+> Responsible for Network Telephony (PABX, DDR), E-mail, servers, Layouts, Documentation and Technical Support in general; Implementation of wiring restructuring project (Network/Telephony).
 
 **2009 a 2011 – Byte Stage / Informática e Tecnologia - Support Analyst**
 
