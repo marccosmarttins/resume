@@ -8,9 +8,11 @@
 
 **E-mail:** [marccos.marttins@gmail.com](mailto:marccos.marttins@gmail.com)
 
-**Skype:** [marccos.marttins](skype:marccos.marttins?call)
+**Skype:** marccos.marttins
 
-**Github:** [github.com/marccosmarttins](https://github.com/marccosmarttins)
+**Github:** [github.com/marccosmarttins](http://github.com/marccosmarttins)
+
+**Behance:** [behance.net/marcosmartins](http://www.behance.net/marcosmartins)
 
 ##Sobre mim
 Atualmente o foco de minha carreira está em Desenvolvimento Web, porém já atuei em diversas areas da tecnologia, desde a infraestrutura, operacional e desenvolvimento.
