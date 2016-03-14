@@ -16,7 +16,7 @@
 Currently the focus of my career is in web development, but already I worked in various areas of technology, from the infrastructure, operations and development.
 
 ##Objective
-Suporte/ Testes/ Desenvolvimento/ Coordenação/ Projetos em TI
+Support / Test / Development / Coordination / Project IT
 
 ##Skills
 
@@ -34,59 +34,59 @@ Suporte/ Testes/ Desenvolvimento/ Coordenação/ Projetos em TI
 
 ##Work Experience
 
-**2012 a 2015 – Byte Stage / Soluções Digitais - Programador Web**
+**2012 a 2015 – Byte Stage / Soluções Digitais - Web Developer**
 
-> Desenvolvimento e manutenção de websites e sistemas web, configuração e gerenciamento de servidores.
+> Development and maintenance of websites and web systems, configuration and management of servers.
 
-**2011 a 2012 – Ace Fitness - Analista de Infraetrutura**
+**2011 a 2012 – Ace Fitness - Infrastructure Analyst**
 
-> Responsável pela Rede, Telefonia (PABX, DDR), E-mails, Servidores, Layouts, Documentações e Suporte Técnico em geral; Implantação do projeto de reestruturação do cabeamento (Rede/Telefonia).
+> Responsible for Network Telephony (PABX, DDR), E-mail, servers, Layouts, Documentation and Technical Support in general; Implementation of wiring restructuring project (Network / Telephony).
 
-**2009 a 2011 – Byte Stage / Informática e Tecnologia Analista de Suporte**
+**2009 a 2011 – Byte Stage / Informática e Tecnologia - Support Analyst**
 
-> Suporte ao usuário, manutenção de micro computadores, softwares, instalação e manutenção de redes; Desenvolvimento de layouts e documentações; Gerenciamento de servidores web (WHM, cPanel, WHMCS).
+> User support, computer maintenance, software, installation and maintenance of networks; Development layouts and documentation; web server management (WHM, cPanel, WHMCS).
 
-**2007 a 2009 – Fast Solutions Analista de Suporte**
+**2007 a 2009 – Fast Solutions - Support Analyst**
 
-> Atuação na área de sistemas de pagamentos com cartões, operando nas rotinas diárias da base de dados (SQL) e sistemas Unix; Homologação de processos batch, arquivos, funcionalidades do sistema e parametrizações específicas de produtos; Desenvolvimento de layouts e documentações.
+> Acting in the area of payment card systems operating in the daily routines of database (SQL) and Unix systems; batch processes of approval, files, system functionality and product-specific parameterization; Development layouts and documentation.
 
-**2006 a 2007 – XP Informática / Consultoria em TI Analista de Sistemas**
+**2006 a 2007 – XP Informática / Consultoria em TI - Systems Analyst**
 
-> Projeto e implementação de newsletter em servidor dedicado remoto; Desenvolvimento e criação de artes (sites, folders, etc.) para E-Marketing; Atendimento ao usuário visando obter solução referente a Hardware e Software, e indicando novas tecnologias.
+> Design and implementation newsletter in remote dedicated server; Development and creation of arts (websites, brochures, etc.) for E-Marketing; Customer Service user to obtain solution regarding hardware and software, and indicating new technologies.
 
-**2005 a 2006 – EC Micro Analista de Suporte**
+**2005 a 2006 – EC Micro - Support Analyst**
 
-> Participação do projeto de migração de hardware, alocado na Editora Abril; Suporte técnico em geral.
+> Hardware migration project participation, applied at Editora Abril; Technical service in general.
 
-**2004 a 2005 – VA Support / Consultoria em TI Analista de Suporte**
+**2004 a 2005 – VA Support / Consultoria em TI - Support Analyst**
 
-> Integrante da equipe de Help Desk, alocado na empresa Johnson Diversey; Atendimento local, remoto e telefônico; Administração de Backup diário.
+> Member of the Help Desk team, allocated in the company Johnson Diversey; Service location, remote and telephone; Daily backup administration.
 
-**2002 a 2004 – Carbono Lorena LTDA Técnico em Informática**
+**2002 a 2004 – Carbono Lorena LTDA - Computer Technician**
 
-> Atendimento local, remoto e telefônico; Administração de Backup diário; Participação no projeto de implantação do Site e Intranet.
+> Service location, remote and telephone; Daily backup of Directors; Participation Site and Intranet deployment project.
 
-**2001 a 2002 – Telsul Comunicações Técnico de Dados Jr.**
+**2001 a 2002 – Telsul Comunicações - Technical Data Jr.**
 
-> Atuando em campo, na instalação e manutenção de Internet Banda Larga Speedy.
+> Acting on the field, installation and maintenance of Internet Broadband Speedy.
 
 
 ##Education
 
-Ciência da Computação - Universidade Nove de Julho / UNINOVE – Incompleto.
+Computer Science - University Nove de Julho / UNINOVE – Incomplete.
 
-Técnico em Informática/Eletrônica - Colégio Radial – Conclusão em 1999
+Computer Technician/Electronics - College Radial – 1999.
 
 
 ##Courses
 
-* PHP e JavaScript (Codecademy, conclusão em 2014).
-* HTML e CSS (Codecademy, conclusão em 2013).
+* PHP e JavaScript (Codecademy, 2014).
+* HTML e CSS (Codecademy, 2013).
 
 ##Extras
 
-* Inglês – Intermediário (leitura, escrita e interpretação).
-* Disponibilidade para Viagens - Nacionais e Internacionais.
+* English - Intermediate (reading, writing and interpretation).
+* Available for Travel - National and International.
 
 
 
