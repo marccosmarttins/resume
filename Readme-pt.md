@@ -1,16 +1,16 @@
 #Marcos Martins Erba
 
-**Localização:** Sao Paulo-SP - Brasil
+**Localização:** Sao Paulo - SP - Brasil
 
 **Telefone:** +55 (11) 96075-5508
 
 **Blog:** [marcosmartins.cf](http://marcosmartins.cf)
 
-**E-mail:** marccos.marttins@gmail.com
+**E-mail:** [marccos.marttins@gmail.com](mailto:marccos.marttins@gmail.com)
 
-**Skype:** marccos.marttins
+**Skype:** [marccos.marttins](marccos.marttins)
 
-**Github:** marccosmarttins
+**Github:** [github.com/marccosmarttins](https://github.com/marccosmarttins)
 
 ##Sobre mim
 Atualmente o foco de minha carreira está em Desenvolvimento Web, porém já atuei em diversas areas da tecnologia, desde a infraestrutura, operacional e desenvolvimento.
