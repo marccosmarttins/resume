@@ -31,6 +31,7 @@ Suporte/ Testes/ Desenvolvimento/ Coordenação/ Projetos em TI
 * MySQL
 * Servers (Linux, Vagrant, DNS, VHosts)
 * Scrum and Kanban
+* Photoshop / Illustrator / Corel
 
 ##Experiência Profissional
 
